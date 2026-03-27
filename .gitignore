@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+models/saved/
+*.parquet
+*.joblib
+*.csv
+.env
+.env.local
+__pycache__/
+.next/
+node_modules/

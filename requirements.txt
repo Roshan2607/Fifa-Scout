@@ -1,0 +1,20 @@
+# Data
+pandas>=2.2.3
+numpy>=2.0.0
+pyarrow>=17.0.0
+
+# ML
+scikit-learn>=1.5.2
+xgboost>=2.1.0
+umap-learn>=0.5.6
+joblib>=1.4.2
+
+# API
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+
+# Dev
+jupyter>=1.0.0
+ipykernel>=6.29.4
