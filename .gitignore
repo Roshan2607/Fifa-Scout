@@ -1,8 +1,6 @@
 data/raw/
 data/processed/
-models/saved/
 *.parquet
-*.joblib
 *.csv
 .env
 .env.local
